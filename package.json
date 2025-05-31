@@ -1,4 +1,12 @@
 {
+  "name": "xos-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "type": "module",
+  "scripts": {
+    "start": "node run.js"
+  },
   "dependencies": {
     "chalk": "^5.4.1",
     "cli-progress": "^3.12.0",
